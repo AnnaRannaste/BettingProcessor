@@ -1,0 +1,12 @@
+# Results:
+
+# Legitimate Players:
+163f23ed-e9a9-4e54-a5b1-4e1fc86f12f4 400 0.00
+4925ac98-833b-454b-9342-13ed3dfd3ccf 134 0.00
+
+
+# Illegitimate Players:
+
+
+# CasinoBalanceChange:
+Casino Host Balance Change: 3766
